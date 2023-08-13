@@ -8,7 +8,7 @@
 <ul>
   <li>🎓 Software Engineer Student</li>
   <li>🌐 Web development</li>
-  <li>💡 looking for new challenges</li>
+  <li>💡 Looking for new challenges</li>
 </ul>
 
 <br>
